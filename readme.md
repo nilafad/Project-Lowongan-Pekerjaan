@@ -28,6 +28,6 @@ Berikut ini adalah implementasi yang sudah kami buat
 ![link](input...png)
 
 - OutPut
--![link](OUTPUT.png)
+![link](OUTPUT.png)
 
  
