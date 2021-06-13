@@ -18,10 +18,9 @@ Berikut ini adalah implementasi yang sudah kami buat
 ![link](hmp.png)
 ![link](hmp2.png)
 
-- About Company:
-![link](ac1...png)
+- About Company & Contact Company:
+![link](ac1...png) 
 
-- Contact Company:
 ![link](ac2...png)
 
 - Input:
