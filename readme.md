@@ -18,16 +18,16 @@ Berikut ini adalah implementasi yang sudah kami buat
 ![link](hmp.png)
 ![link](hmp2.png)
 
-- About Company
+- About Company:
 ![link](ac1...png)
 
-- Contact Company
+- Contact Company:
 ![link](ac2...png)
 
-- Input
+- Input:
 ![link](input...png)
 
-- OutPut
+- OutPut:
 ![link](OUTPUT.png)
 
  
