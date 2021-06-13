@@ -7,11 +7,11 @@ Ini adalah project kelompok lowongan kerja berbasis website dengan menggunakan k
 - Andi Muhammad Yusuf A 
 
  Fitur yang ada di website:
-  -menggunakan css
+  - menggunakan css
 
  kelebihan website:
-  -tampilan menggunakan css sehingga tampilan website menjadi lebih menarik untuk dilihat |
-  -user dapat mudah menginput form daftar kerja dengan mudah
+  - tampilan menggunakan css sehingga tampilan website menjadi lebih menarik untuk dilihat 
+  - user dapat mudah menginput form daftar kerja dengan mudah
   
 Berikut ini adalah implementasi yang sudah kami buat
 ![link](hmp.png)
