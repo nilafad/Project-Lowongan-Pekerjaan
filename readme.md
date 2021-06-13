@@ -14,4 +14,20 @@ Ini adalah project kelompok lowongan kerja berbasis website dengan menggunakan k
   - user dapat mudah menginput form daftar kerja dengan mudah
   
 Berikut ini adalah implementasi yang sudah kami buat
+- Homepage :
 ![link](hmp.png)
+![link](hmp2.png)
+
+- About Company
+![link](ac1...png)
+
+- Contact Company
+![link](ac2...png)
+
+- Input
+![link](input...png)
+
+- OutPut
+-![link](OUTPUT.png)
+
+ 
